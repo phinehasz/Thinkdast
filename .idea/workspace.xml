@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76a7b9b0-ef5f-4997-8a8a-435fe322161b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4TNFaGubNgXJ2DyvYTXTezpLs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.29301533" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyLinkedListTest">
+    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thinkdast.MyLinkedList" />
+      <module name="JAVAFIGHTBACK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thinkdast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAFIGHTBACK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thinkdast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="thinkdast" />
+      <option name="MAIN_CLASS_NAME" value="thinkdast.MyArrayListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyArrayListTest.testIndexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAFIGHTBACK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thinkdast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="thinkdast" />
+      <option name="MAIN_CLASS_NAME" value="thinkdast.MyArrayListTest" />
+      <option name="METHOD_NAME" value="testIndexOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyArrayListTest.testSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAFIGHTBACK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thinkdast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="thinkdast" />
+      <option name="MAIN_CLASS_NAME" value="thinkdast.MyArrayListTest" />
+      <option name="METHOD_NAME" value="testSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAFIGHTBACK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thinkdast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="thinkdast" />
+      <option name="MAIN_CLASS_NAME" value="thinkdast.MyLinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JAVAFIGHTBACK" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55565" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55634" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyArrayListTest" />
+      <item itemvalue="JUnit.MyArrayListTest.testSet" />
+      <item itemvalue="JUnit.MyLinkedListTest" />
+      <item itemvalue="JUnit.MyArrayListTest.testIndexOf" />
+      <item itemvalue="Application.MyLinkedList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyLinkedListTest" />
+        <item itemvalue="Application.MyLinkedList" />
+        <item itemvalue="JUnit.MyArrayListTest" />
+        <item itemvalue="JUnit.MyArrayListTest.testIndexOf" />
+        <item itemvalue="JUnit.MyArrayListTest.testSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76a7b9b0-ef5f-4997-8a8a-435fe322161b" name="Default Changelist" comment="" />
+      <created>1584097326954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584097326954</updated>
+      <workItem from="1584097334595" duration="3210000" />
+      <workItem from="1584260566957" duration="62000" />
+      <workItem from="1584263500686" duration="1557000" />
+      <workItem from="1584265146949" duration="99000" />
+      <workItem from="1584265349815" duration="85000" />
+      <workItem from="1584265473917" duration="356000" />
+      <workItem from="1584265857384" duration="13578000" />
+      <workItem from="1584348520339" duration="38000" />
+      <workItem from="1584348600279" duration="831000" />
+      <workItem from="1584349585314" duration="8973000" />
+      <workItem from="1584365112503" duration="415000" />
+      <workItem from="1584366005867" duration="1150000" />
+      <workItem from="1584367170709" duration="2335000" />
+      <workItem from="1584375070302" duration="4409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1534" y="374" key="#Tomcat_Server" timestamp="1584107121564">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1534" y="374" key="#Tomcat_Server/0.23.2560.1373@0.23.2560.1373" timestamp="1584107121564" />
+    <state x="1398" y="371" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584366876207">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1398" y="371" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584366876207" />
+    <state x="1286" y="123" width="1146" height="1173" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584377289626">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1286" y="123" width="1146" height="1173" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584377289626" />
+    <state x="1658" y="519" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584289415193">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1658" y="519" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1373@0.23.2560.1373" timestamp="1584289415193" />
+    <state x="1682" y="553" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1584270291103">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1682" y="553" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584270291103" />
+    <state x="1656" y="417" key="#com.intellij.ide.util.MemberChooser" timestamp="1584357988082">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1656" y="417" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1373@0.23.2560.1373" timestamp="1584357988082" />
+    <state x="1672" y="463" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584270403453">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1672" y="463" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584270403453" />
+    <state width="1304" height="378" key="GridCell.Tab.0.bottom" timestamp="1584380699682">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state width="1304" height="378" key="GridCell.Tab.0.bottom/0.23.2560.1373@0.23.2560.1373" timestamp="1584380699682" />
+    <state width="1304" height="378" key="GridCell.Tab.0.center" timestamp="1584380699681">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state width="1304" height="378" key="GridCell.Tab.0.center/0.23.2560.1373@0.23.2560.1373" timestamp="1584380699681" />
+    <state width="1304" height="378" key="GridCell.Tab.0.left" timestamp="1584380699680">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state width="1304" height="378" key="GridCell.Tab.0.left/0.23.2560.1373@0.23.2560.1373" timestamp="1584380699680" />
+    <state width="1304" height="378" key="GridCell.Tab.0.right" timestamp="1584380699682">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state width="1304" height="378" key="GridCell.Tab.0.right/0.23.2560.1373@0.23.2560.1373" timestamp="1584380699682" />
+    <state width="1304" height="484" key="GridCell.Tab.1.bottom" timestamp="1584379612885">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state width="1304" height="484" key="GridCell.Tab.1.bottom/0.23.2560.1373@0.23.2560.1373" timestamp="1584379612885" />
+    <state width="1304" height="484" key="GridCell.Tab.1.center" timestamp="1584379612885">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state width="1304" height="484" key="GridCell.Tab.1.center/0.23.2560.1373@0.23.2560.1373" timestamp="1584379612885" />
+    <state width="1304" height="484" key="GridCell.Tab.1.left" timestamp="1584379612884">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state width="1304" height="484" key="GridCell.Tab.1.left/0.23.2560.1373@0.23.2560.1373" timestamp="1584379612884" />
+    <state width="1304" height="484" key="GridCell.Tab.1.right" timestamp="1584379612885">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state width="1304" height="484" key="GridCell.Tab.1.right/0.23.2560.1373@0.23.2560.1373" timestamp="1584379612885" />
+    <state x="1174" y="400" width="1038" height="516" key="IDE.errors.dialog" timestamp="1584290334119">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1174" y="400" width="1038" height="516" key="IDE.errors.dialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584290334119" />
+    <state x="1095" y="309" width="1465" height="839" key="SettingsEditor" timestamp="1584367456663">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1095" y="309" width="1465" height="839" key="SettingsEditor/0.23.2560.1373@0.23.2560.1373" timestamp="1584367456663" />
+    <state x="959" y="566" key="com.intellij.ide.util.TipDialog" timestamp="1584375070149">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="959" y="552" key="com.intellij.ide.util.TipDialog/0.0.2560.1396@0.0.2560.1396" timestamp="1584097334196" />
+    <state x="959" y="566" key="com.intellij.ide.util.TipDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584375070149" />
+    <state x="511" y="610" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584366113872">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="511" y="610" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.2560.1373@0.23.2560.1373" timestamp="1584366113872" />
+    <state x="1429" y="524" width="717" height="857" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584266462866">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1429" y="524" width="717" height="857" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584266462866" />
+    <state x="1574" y="337" width="670" height="676" key="search.everywhere.popup" timestamp="1584097612704">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="1574" y="337" width="670" height="676" key="search.everywhere.popup/0.23.2560.1373@0.23.2560.1373" timestamp="1584097612704" />
+  </component>
+</project>
