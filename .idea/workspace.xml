@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76a7b9b0-ef5f-4997-8a8a-435fe322161b" name="Default Changelist" comment="" />
+    <list default="true" id="76a7b9b0-ef5f-4997-8a8a-435fe322161b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/META-INF/JAVAFIGHTBACK.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/thinkdast/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/thinkdast/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/thinkdast/ProfileListAdd$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/thinkdast/ProfileListAdd$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/thinkdast/ProfileListAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/thinkdast/ProfileListAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/thinkdast/WikiFetcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/thinkdast/WikiFetcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/thinkdast/WikiPhilosophy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVAFIGHTBACK/thinkdast/WikiPhilosophy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thinkdast/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkdast/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thinkdast/ProfileListAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkdast/ProfileListAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thinkdast/WikiFetcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkdast/WikiFetcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thinkdast/WikiNodeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkdast/WikiNodeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thinkdast/WikiPhilosophy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkdast/WikiPhilosophy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +29,10 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Users\oborovok\vovaProgramming\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z4TNFaGubNgXJ2DyvYTXTezpLs" />
   <component name="ProjectViewState">
@@ -30,8 +48,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="settings.editor.splitter.proportion" value="0.29301533" />
   </component>
   <component name="RecentsManager">
@@ -42,9 +61,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyLinkedListTest">
-    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thinkdast.MyLinkedList" />
+  <component name="RunManager" selected="Application.WikiPhilosophy">
+    <configuration name="ProfileListAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thinkdast.ProfileListAdd" />
       <module name="JAVAFIGHTBACK" />
       <extension name="coverage">
         <pattern>
@@ -56,7 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WikiFetcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thinkdast.WikiFetcher" />
       <module name="JAVAFIGHTBACK" />
       <extension name="coverage">
         <pattern>
@@ -64,14 +84,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="thinkdast" />
-      <option name="MAIN_CLASS_NAME" value="thinkdast.MyArrayListTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrayListTest.testIndexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WikiPhilosophy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thinkdast.WikiPhilosophy" />
       <module name="JAVAFIGHTBACK" />
       <extension name="coverage">
         <pattern>
@@ -79,26 +97,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="thinkdast" />
-      <option name="MAIN_CLASS_NAME" value="thinkdast.MyArrayListTest" />
-      <option name="METHOD_NAME" value="testIndexOf" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyArrayListTest.testSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JAVAFIGHTBACK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thinkdast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="thinkdast" />
-      <option name="MAIN_CLASS_NAME" value="thinkdast.MyArrayListTest" />
-      <option name="METHOD_NAME" value="testSet" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,6 +111,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="thinkdast" />
       <option name="MAIN_CLASS_NAME" value="thinkdast.MyLinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WikiPhilosophyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAFIGHTBACK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thinkdast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="thinkdast" />
+      <option name="MAIN_CLASS_NAME" value="thinkdast.WikiPhilosophyTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -211,19 +224,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MyArrayListTest" />
-      <item itemvalue="JUnit.MyArrayListTest.testSet" />
+      <item itemvalue="Application.ProfileListAdd" />
+      <item itemvalue="Application.WikiPhilosophy" />
+      <item itemvalue="Application.WikiFetcher" />
       <item itemvalue="JUnit.MyLinkedListTest" />
-      <item itemvalue="JUnit.MyArrayListTest.testIndexOf" />
-      <item itemvalue="Application.MyLinkedList" />
+      <item itemvalue="JUnit.WikiPhilosophyTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WikiPhilosophy" />
+        <item itemvalue="Application.WikiFetcher" />
+        <item itemvalue="JUnit.WikiPhilosophyTest" />
+        <item itemvalue="Application.ProfileListAdd" />
         <item itemvalue="JUnit.MyLinkedListTest" />
-        <item itemvalue="Application.MyLinkedList" />
-        <item itemvalue="JUnit.MyArrayListTest" />
-        <item itemvalue="JUnit.MyArrayListTest.testIndexOf" />
-        <item itemvalue="JUnit.MyArrayListTest.testSet" />
       </list>
     </recent_temporary>
   </component>
@@ -263,13 +276,34 @@
       <workItem from="1584366005867" duration="1150000" />
       <workItem from="1584367170709" duration="2335000" />
       <workItem from="1584375070302" duration="4409000" />
+      <workItem from="1584551775387" duration="6461000" />
+      <workItem from="1584599414464" duration="223000" />
+      <workItem from="1584617758625" duration="6737000" />
+      <workItem from="1584799192936" duration="15060000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1584552494981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1584552494981" />
     <state x="1534" y="374" key="#Tomcat_Server" timestamp="1584107121564">
       <screen x="0" y="23" width="2560" height="1373" />
     </state>
@@ -294,66 +328,138 @@
       <screen x="0" y="23" width="2560" height="1373" />
     </state>
     <state x="1656" y="417" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1373@0.23.2560.1373" timestamp="1584357988082" />
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584551906666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1584551906666" />
+    <state x="263" y="19" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1584551902489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1584551902489" />
     <state x="1672" y="463" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584270403453">
       <screen x="0" y="23" width="2560" height="1373" />
     </state>
     <state x="1672" y="463" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584270403453" />
-    <state width="1304" height="378" key="GridCell.Tab.0.bottom" timestamp="1584380699682">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1584552980201">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584552980201" />
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom" timestamp="1584817278126">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="89" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1584811702866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="89" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1584811702866" />
+    <state width="1323" height="328" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584811555976" />
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584817278126" />
     <state width="1304" height="378" key="GridCell.Tab.0.bottom/0.23.2560.1373@0.23.2560.1373" timestamp="1584380699682" />
-    <state width="1304" height="378" key="GridCell.Tab.0.center" timestamp="1584380699681">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state width="1323" height="160" key="GridCell.Tab.0.center" timestamp="1584817278126">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state width="1323" height="89" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1584811702866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="89" key="GridCell.Tab.0.center.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1584811702866" />
+    <state width="1323" height="328" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584811555976" />
+    <state width="1323" height="160" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584817278126" />
     <state width="1304" height="378" key="GridCell.Tab.0.center/0.23.2560.1373@0.23.2560.1373" timestamp="1584380699681" />
-    <state width="1304" height="378" key="GridCell.Tab.0.left" timestamp="1584380699680">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state width="1323" height="160" key="GridCell.Tab.0.left" timestamp="1584817278126">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state width="1323" height="89" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1584811702866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="89" key="GridCell.Tab.0.left.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1584811702866" />
+    <state width="1323" height="328" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584811555972" />
+    <state width="1323" height="160" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584817278126" />
     <state width="1304" height="378" key="GridCell.Tab.0.left/0.23.2560.1373@0.23.2560.1373" timestamp="1584380699680" />
-    <state width="1304" height="378" key="GridCell.Tab.0.right" timestamp="1584380699682">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right" timestamp="1584817278126">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state width="1323" height="89" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1584811702866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="89" key="GridCell.Tab.0.right.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1584811702866" />
+    <state width="1323" height="328" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584811555976" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584817278126" />
     <state width="1304" height="378" key="GridCell.Tab.0.right/0.23.2560.1373@0.23.2560.1373" timestamp="1584380699682" />
-    <state width="1304" height="484" key="GridCell.Tab.1.bottom" timestamp="1584379612885">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1584810064772">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584810064772" />
     <state width="1304" height="484" key="GridCell.Tab.1.bottom/0.23.2560.1373@0.23.2560.1373" timestamp="1584379612885" />
-    <state width="1304" height="484" key="GridCell.Tab.1.center" timestamp="1584379612885">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1584810064772">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584810064772" />
     <state width="1304" height="484" key="GridCell.Tab.1.center/0.23.2560.1373@0.23.2560.1373" timestamp="1584379612885" />
-    <state width="1304" height="484" key="GridCell.Tab.1.left" timestamp="1584379612884">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1584810064772">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584810064772" />
     <state width="1304" height="484" key="GridCell.Tab.1.left/0.23.2560.1373@0.23.2560.1373" timestamp="1584379612884" />
-    <state width="1304" height="484" key="GridCell.Tab.1.right" timestamp="1584379612885">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1584810064772">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584810064772" />
     <state width="1304" height="484" key="GridCell.Tab.1.right/0.23.2560.1373@0.23.2560.1373" timestamp="1584379612885" />
     <state x="1174" y="400" width="1038" height="516" key="IDE.errors.dialog" timestamp="1584290334119">
       <screen x="0" y="23" width="2560" height="1373" />
     </state>
     <state x="1174" y="400" width="1038" height="516" key="IDE.errors.dialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584290334119" />
-    <state x="1095" y="309" width="1465" height="839" key="SettingsEditor" timestamp="1584367456663">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state x="450" y="20" width="916" height="708" key="SettingsEditor" timestamp="1584553380978">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="450" y="20" width="916" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584553380978" />
     <state x="1095" y="309" width="1465" height="839" key="SettingsEditor/0.23.2560.1373@0.23.2560.1373" timestamp="1584367456663" />
-    <state x="959" y="566" key="com.intellij.ide.util.TipDialog" timestamp="1584375070149">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1584557090217">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1584557090217" />
+    <state x="512" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1584799193745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="512" y="288" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584799193745" />
     <state x="959" y="552" key="com.intellij.ide.util.TipDialog/0.0.2560.1396@0.0.2560.1396" timestamp="1584097334196" />
     <state x="959" y="566" key="com.intellij.ide.util.TipDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584375070149" />
     <state x="511" y="610" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584366113872">
       <screen x="0" y="23" width="2560" height="1373" />
     </state>
     <state x="511" y="610" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.2560.1373@0.23.2560.1373" timestamp="1584366113872" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584555566494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584555566494" />
+    <state x="0" y="0" width="736" height="728" key="find.popup" timestamp="1584801310315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="736" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1584801310315" />
     <state x="1429" y="524" width="717" height="857" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584266462866">
       <screen x="0" y="23" width="2560" height="1373" />
     </state>
     <state x="1429" y="524" width="717" height="857" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.2560.1373@0.23.2560.1373" timestamp="1584266462866" />
-    <state x="1574" y="337" width="670" height="676" key="search.everywhere.popup" timestamp="1584097612704">
-      <screen x="0" y="23" width="2560" height="1373" />
+    <state x="339" y="171" key="run.anything.popup" timestamp="1584812340041">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584553794101" />
+    <state x="339" y="171" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1584812340041" />
+    <state x="531" y="105" width="672" height="379" key="search.everywhere.popup" timestamp="1584813179713">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="531" y="100" width="672" height="359" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584557076383" />
+    <state x="531" y="105" width="672" height="379" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1584813179713" />
     <state x="1574" y="337" width="670" height="676" key="search.everywhere.popup/0.23.2560.1373@0.23.2560.1373" timestamp="1584097612704" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/thinkdast/WikiPhilosophy.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
